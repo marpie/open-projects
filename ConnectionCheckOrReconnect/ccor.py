@@ -3,7 +3,7 @@
 """ ccor
 
     Checks for a working internet connection. If that fails the 
-    router will be restarted.
+    modem will be restarted.
     
     Pure python implementation without any external libraries.
 
